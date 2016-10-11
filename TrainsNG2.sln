@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainsNG2", "TrainsNG2\TrainsNG2.csproj", "{7F9A092D-95DC-4EA0-9679-9DB9C350B84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainsNG2.Tests", "TrainsNG2.Tests\TrainsNG2.Tests.csproj", "{D1983FD7-E1CE-454A-846F-FD244FF6EC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9A092D-95DC-4EA0-9679-9DB9C350B84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9A092D-95DC-4EA0-9679-9DB9C350B84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9A092D-95DC-4EA0-9679-9DB9C350B84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9A092D-95DC-4EA0-9679-9DB9C350B84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1983FD7-E1CE-454A-846F-FD244FF6EC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1983FD7-E1CE-454A-846F-FD244FF6EC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1983FD7-E1CE-454A-846F-FD244FF6EC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1983FD7-E1CE-454A-846F-FD244FF6EC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
