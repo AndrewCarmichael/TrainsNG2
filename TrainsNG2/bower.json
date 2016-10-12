@@ -1,0 +1,7 @@
+{
+	"name": "asp.net",
+	"private": true,
+  "dependencies": {
+    "ngGeolocation": ">=0.0.2"
+  }
+}

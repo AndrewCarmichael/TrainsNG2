@@ -26,6 +26,12 @@ namespace TrainsNG2
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/angular", "https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js").Include(
+                "~/Scripts/angular.min.js",
+                "~/bower_components/ngGeolocation/ngGeolocation.min.js",
+                "~/Scripts/app.js"));
+
         }
     }
 }
